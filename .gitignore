@@ -1,0 +1,34 @@
+# JetBrains IDEs (IntelliJ, WebStorm, etc.)
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# Editors
+*.swp
+*.swo
+*.swn
+*.tmp
+*.bak
+
+# Logs and local env (if you add tooling later)
+*.log
+.env
+.env.*
+!.env.example
+
+# Optional: local VS Code / Cursor user state (uncomment if you don't share these)
+# .vscode/
+# .cursor/
